@@ -134,6 +134,8 @@ Na raiz do projeto, crie um arquivo .env com o seguinte conteúdo:
 PORT=3001
 MONGODB_URI=mongodb://localhost:27017/todolist
 
+OBS: O MongoDB precisa estar instalado na máquina para poder subir o servidor do Back-end
+
 ▶️ Iniciar o servidor
 npm run dev
 
