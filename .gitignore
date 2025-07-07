@@ -1,0 +1,10 @@
+# Ignora node_modules das duas pastas
+To-do-List---Back-end/node_modules/
+To-do-List-Front-end/node_modules/
+
+# Ignora arquivos de ambiente
+**/.env
+
+# Ignora sistema/editor
+.DS_Store
+.vscode/
