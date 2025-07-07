@@ -102,7 +102,7 @@ API RESTful desenvolvida com Node.js, Express e MongoDB para gerenciamento de ta
 Node.js
 Express
 MongoDB + Mongoose
-Swagger (Documentação)
+Swagger (Documentação) -> Para acessar a documentação swagger (http://localhost:3001/api-docs)
 CORS + Body Parser
 Nodemon (para desenvolvimento)
 
@@ -209,4 +209,4 @@ Este back-end é consumido pelo front-end React disponível em:
 🔗 https://github.com/PetBr1995/To-do-List-Front-end
 
 👨‍💻 Autor
-Peterson Brito💼 Desenvolvedor Fullstack📧 petersonbrito.dev@gmail.com
+Peterson Brito💼 Desenvolvedor 📧 dev.petersonbrito@gmail.com
